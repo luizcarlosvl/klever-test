@@ -4,7 +4,7 @@ Desafio técnico de frontend.
 
 ## Deploy
 
-Deploy realizado com Heroku app. Pode ser accessado pelo link: https://klever-test-luiz.herokuapp.com/
+Deploy realizado com Heroku app. Pode ser acessado pelo link: https://klever-test-luiz.herokuapp.com/
 
 ### Instruções para executar localmente
 
