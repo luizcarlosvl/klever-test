@@ -14,7 +14,7 @@ Deploy realizado com Heroku app. Pode ser acessado pelo link: https://klever-tes
 
 ### Testes
 
-O projeto possui testes automaticados que podem ser exectados com o comando: npm run test
+O projeto possui testes automatizados que podem ser executados com o comando: npm run test
 
 ### Tecnologias utilizadas
 
