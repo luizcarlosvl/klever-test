@@ -6,7 +6,7 @@ Desafio técnico de frontend.
 
 Deploy realizado com Heroku app. Pode ser accessado pelo link: https://klever-test-luiz.herokuapp.com/
 
-### Instruções para rodar localmente
+### Instruções para executar localmente
 
 - fazer o clone do projeto: git clone git@github.com:luizcarlosvl/klever-test.git
 - instalar as dependências: npm install
